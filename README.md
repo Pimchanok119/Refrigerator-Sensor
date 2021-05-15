@@ -19,7 +19,7 @@
 ## วิดีโอนำเสนอ
 > * [Youtube](https://www.youtube.com/watch?v=g0TveA3Xgcw)
 ## โปสเตอร์
-> * [Poster (download)](https://drive.google.com/file/d/1wkT-e7K-fvn7Vo5j8DtxEvxGOONF_GIc/view?usp=sharing)
+> * [Poster (download)](https://github.com/Pimchanok119/Compro/raw/main/poster/poster.jpg)
 > 
 >  ![Poster (download)](poster/poster.jpg)
 ---
