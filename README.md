@@ -4,8 +4,8 @@
 ## วัตถุประสงค์
 > ป้องกันการปิดตู้เย็นไม่สนิทโดยใช้ Microcontrollerส่งสัญญาณเตือนให้ผู้ใช้งานได้รู้
 ## อุปกรณ์
-> 1.Piezo Buzzer
-> 2.Ultrasonic Distance Sensor
-> 3.Ardino Uno R3
-> 4.LCD
+> 1. Piezo Buzzer
+> 2. Ultrasonic Distance Sensor
+> 3. Ardino Uno R3
+> 4. LCD
    
