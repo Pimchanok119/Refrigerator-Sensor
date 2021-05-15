@@ -13,8 +13,8 @@
 > 2. Ultrasonic Distance Sensor
 > 3. Ardino Uno R3
 > 4. LCD
-## Website : https://goofy-lalande-292e89.netlify.app/#home
-## Clip-Video : https://www.youtube.com/watch?v=g0TveA3Xgcw
+### Website : https://goofy-lalande-292e89.netlify.app/#home
+### Clip-Video : https://www.youtube.com/watch?v=g0TveA3Xgcw
 ## สมาชิก
 > 1. ภูริชญา จานะพร 62070151
 > 2. ณัชชา ธีระแนว 63070048
