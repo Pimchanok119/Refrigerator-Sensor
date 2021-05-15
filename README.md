@@ -18,7 +18,6 @@
 > * [Website](https://goofy-lalande-292e89.netlify.app/#home)
 ## วิดีโอนำเสนอ
 > * [Youtube](https://www.youtube.com/watch?v=g0TveA3Xgcw)
-> ![Youtube](https://www.youtube.com/watch?v=g0TveA3Xgcw)
 ## โปสเตอร์
 > * [Poster (download)](https://github.com/Pimchanok119/Compro/raw/main/poster/poster.jpg)
 > 
