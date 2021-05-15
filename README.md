@@ -19,6 +19,9 @@
 ## วิดีโอนำเสนอ
 > * [Youtube](https://www.youtube.com/watch?v=g0TveA3Xgcw)
 ## โปสเตอร์
+<a href="poster/poster.jpg" download>
+  <img src="poster/poster.jpg" alt="Poster (download)">
+</a>
 > * [Poster (download)](https://github.com/Pimchanok119/Compro/raw/main/poster/poster.jpg)
 >  ![Poster (download)](poster/poster.jpg)
 ---
